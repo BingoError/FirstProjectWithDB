@@ -1,0 +1,1 @@
+DATA_BASE_URL = 'postgresql+psycopg2://postgres:bitcoin2707@localhost:5432/postgres'
